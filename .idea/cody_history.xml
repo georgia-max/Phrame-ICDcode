@@ -381,6 +381,28 @@
           </messages>
           <updatedAt value="2024-04-24T17:48:55.751975" />
         </chat>
+        <chat>
+          <accountId value="VXNlcjo0MDAxMDU=" />
+          <internalId value="1ba23245-5e06-48b6-b016-aa72193a0f88" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-sonnet-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Sonnet" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo0MDAxMDU=" />
+          <internalId value="2fb01eb9-c90c-418e-b1e3-ff055dad539d" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-sonnet-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Sonnet" />
+            </llm>
+          </llm>
+        </chat>
       </list>
     </chats>
     <defaultLlm>
